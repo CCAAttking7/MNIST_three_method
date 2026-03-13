@@ -44,6 +44,6 @@
 | **III. 模型库** | Cell 3 | 定义 MLP、LeNet5、StrongCNN 类及参数量统计工具 |
 | **IV. 核心引擎** | Cell 4 | 封装通用 `Trainer` 类，支持自动记录 History 及 LR 调度 |
 | **V. 实验执行** | Cell 5 | 全自动循环执行 8 组实验逻辑，收集实验指标 |
-| **VI. 结果可视化** | Cell 6-7 | 绘制多维度 Loss/Acc 对比曲线及最终性能汇总表 |
+| **VI. 结果可视化** | Cell 6-7 | 绘制准确率随epoch对照表 |
 
 ---
